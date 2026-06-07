@@ -183,39 +183,49 @@ AI-Commerce-Intelligence-Platform/
 
 # 📸 Dashboard Screenshots
 
-## Executive Overview
+## 🚀 Executive Overview
 
-* Revenue Metrics
-* AI Accuracy
-* Customer Satisfaction
-* Trending Products
+![Executive Dashboard](outputs/dashboard.png.png)
 
----
-
-## Product Intelligence
-
-* Product Images
-* Product Ratings
-* Product Categories
-* Search Functionality
+![Executive Dashboard Part 2](outputs/dashboard_part_2.png.png)
 
 ---
 
-## AI Recommendation Lab
+## 📦 Product Intelligence
 
-* Personalized Recommendations
-* Confidence Score
-* Recommendation Reasons
-* Recommendation Insights
+![Product Intelligence](outputs/product_intelligence.png.png)
+
+![Products](outputs/products.png.png)
 
 ---
 
-## Analytics Dashboard
+## 👥 Customer Intelligence
 
-* Pie Charts
-* Bar Charts
-* Heatmaps
-* Product Analytics
+![Customer Intelligence](outputs/customer_intelligence.png.png)
+
+---
+
+## 🤖 AI Recommendation Lab
+
+![Recommendation 1](outputs/ai_recommendation_part_1.png.png)
+
+![Recommendation 2](outputs/ai_recommendation_part_2.png.png)
+
+![Recommendation 3](outputs/ai_recommendation_part_3.png.png)
+
+![Recommendation 4](outputs/ai_recommendation_part_4.png.png)
+
+---
+
+## 📊 Analytics Dashboard
+
+![Analytics](outputs/analysis.png.png)
+
+---
+
+## ⚙️ System Health
+
+![System Health](outputs/system_health.png.png)
 
 ---
 
